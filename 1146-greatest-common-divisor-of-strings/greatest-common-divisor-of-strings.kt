@@ -1,37 +1,9 @@
 class Solution {
     fun gcdOfStrings(str1: String, str2: String): String {
-        var result = ""
-        var hl = gcd(str1.length,str2.length)
-        var i = 0
-        var j = 0
-        while(i < hl && j < hl){
-            if(str1[i] == str2[j]){
-                result += str1[i]
-                i++
-                j++
-            } else {
-                return ""
-            }
+        if(str1+ str2 != str2 + str1){
+            return ""
         }
-        while(i < str1.length) {
-            for(x in result){
-                if(str1[i] != x){
-                    return ""
-                } else {
-                    i++
-                }
-            }
-        }
-        while(j < str2.length) {
-            for(x in result){
-                if(str2[j] != x){
-                    return ""
-                } else {
-                    j++
-                }
-            }
-        }
-        return result
+        return str1.substring(0,gcd(str1.length,str2.length))
     }
 
     fun gcd(x : Int,y : Int) : Int {
