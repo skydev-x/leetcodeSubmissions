@@ -1,9 +1,7 @@
 class Solution {
     fun reverseWords(s: String): String {
-        return s.split(" ").map{
-            it.trim()
-        }.filter {
+        return s.split(" ").filter {
             it.isNotEmpty()
-        }.reversed().joinToString(" ")
+        }.reversed().joinToString(" ").trim()
     }
 }
