@@ -4,9 +4,8 @@ class Solution {
         for(i in nums) {
             if(result.contains(i)){
                 return true
-            } else {
-                result.add(i)
-            }
+            } 
+            result.add(i)
         }
         return false
     }
