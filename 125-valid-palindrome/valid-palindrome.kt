@@ -1,20 +1,13 @@
 class Solution {
-    fun isPalindrome(s: String): Boolean {
-        val trans = s
-        .toCharArray()
-        .asSequence()
-        .filter {
-            it.isLetter() || it.isDigit()
-        }
-        .map {
-            it.lowercase()
-        }
-        .toList()
-        print(trans)
+fun isPalindrome(s: String): Boolean {
+        val filtered = s.filter {
+            it.isLetterOrDigit()
+        }.toLowerCase()
+
         var i = 0
-        var j = trans.size - 1
+        var j = filtered.length - 1
         while(i < j){
-            if(trans[i] != trans[j]){
+            if(filtered[i] != filtered[j]){
                 return false
             }
             i++
