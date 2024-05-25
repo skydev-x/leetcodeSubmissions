@@ -5,19 +5,22 @@ class Solution {
         }
         var l = 0
         var r = nums.size - 1
-        while(l <= r){
-            val mid = (r - l) / 2 + l 
-            when {
-                nums[mid] < target -> {
-                    l = mid + 1
-                }
-                nums[mid] > target -> {
-                    r = mid - 1
-                }
-                else -> return mid
-            }
-        }
+        return binarySearch(nums,l,r,target)
+    }
 
-        return -1
+    fun binarySearch(nums : IntArray ,l : Int, r : Int, t : Int) : Int {
+        if(l > r){
+            return - 1
+        }
+        val mid = (r - l) / 2 + l 
+        return when {
+            nums[mid] < t -> {
+                binarySearch(nums,mid + 1,r,t)
+            }
+            nums[mid] > t -> {
+                binarySearch(nums,l,mid - 1,t)
+            }
+            else -> return mid
+        }
     }
 }
