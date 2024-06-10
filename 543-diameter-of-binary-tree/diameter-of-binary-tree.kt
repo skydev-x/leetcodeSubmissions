@@ -10,21 +10,29 @@
  */
 class Solution {
 
-    var maxDiameter = 0
-
     fun diameterOfBinaryTree(root: TreeNode?): Int {
-        calculateHeight(root)
-        return maxDiameter
+        if(root == null){
+            return 0
+        }
+
+        val ld = diameterOfBinaryTree(root.left)
+        val rd = diameterOfBinaryTree(root.right)
+
+        val lh = height(root.left)
+        val rh = height(root.right)
+
+        return maxOf((lh + rh ), maxOf(ld,rd))
+
     }
 
-    private fun calculateHeight(node: TreeNode?): Int {
-        if (node == null) return 0
+    fun height(root: TreeNode?): Int {
+        if(root == null){
+            return 0
+        }
+        val leftM = height(root.left)
+        val rightM = height(root.right)
 
-        val leftHeight = calculateHeight(node.left)
-        val rightHeight = calculateHeight(node.right)
-
-        maxDiameter = maxOf(maxDiameter, leftHeight + rightHeight)
-
-        return maxOf(leftHeight, rightHeight) + 1
+        return maxOf(leftM ,rightM ) + 1
     }
+
 }
