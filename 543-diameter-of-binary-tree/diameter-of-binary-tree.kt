@@ -9,30 +9,23 @@
  * }
  */
 class Solution {
+    var maxDiameter = 0
 
     fun diameterOfBinaryTree(root: TreeNode?): Int {
-        if(root == null){
-            return 0
-        }
-
-        val ld = diameterOfBinaryTree(root.left)
-        val rd = diameterOfBinaryTree(root.right)
-
-        val lh = height(root.left)
-        val rh = height(root.right)
-
-        return maxOf((lh + rh ), maxOf(ld,rd))
-
+        calculateHeight(root)
+        return maxDiameter
     }
 
-    fun height(root: TreeNode?): Int {
-        if(root == null){
-            return 0
-        }
-        val leftM = height(root.left)
-        val rightM = height(root.right)
+    private fun calculateHeight(node: TreeNode?): Int {
+        if (node == null) return 0
 
-        return maxOf(leftM ,rightM ) + 1
+        val leftHeight = calculateHeight(node.left)
+        val rightHeight = calculateHeight(node.right)
+
+        // Update the maximum diameter found so far
+        maxDiameter = maxOf(maxDiameter, leftHeight + rightHeight)
+
+        // Return the height of the tree rooted at this node
+        return maxOf(leftHeight, rightHeight) + 1
     }
-
 }
