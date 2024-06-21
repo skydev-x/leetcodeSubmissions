@@ -7,28 +7,17 @@
  */
 
 class Solution {
-fun lowestCommonAncestor(root: TreeNode?, p: TreeNode?, q: TreeNode?): TreeNode? {
-        if (root == null) return null
+
+    fun lowestCommonAncestor(root: TreeNode?, p: TreeNode?, q: TreeNode?): TreeNode? {
+       if(p?.`val` == root?.`val` || q?.`val` == root?.`val`) return root 
+
+       if(p!!.`val` < root!!.`val` && q!!.`val` < root!!.`val`) 
+          return lowestCommonAncestor(root.left,p,q)
+
+       if(p!!.`val` > root!!.`val` && q!!.`val` > root!!.`val`) 
+          return lowestCommonAncestor(root.right,p,q)
         
-        // Ensure p is the smaller or equal value node
-        if (p!!.`val` > q!!.`val`) {
-            return lowestCommonAncestor(root, q, p)
-        }
-        
-        // p <= q
-        return when {
-            root.`val` < p.`val` -> {
-                // Both p and q are in the right subtree
-                lowestCommonAncestor(root.right, p, q)
-            }
-            root.`val` > q.`val` -> {
-                // Both p and q are in the left subtree
-                lowestCommonAncestor(root.left, p, q)
-            }
-            else -> {
-                // root is the lowest common ancestor
-                root
-            }
-        }
+        return root
     }
+    
 }
