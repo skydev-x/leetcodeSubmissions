@@ -9,7 +9,7 @@ class Solution {
         
         val result = mutableListOf<String>()
         
-        fun backtrack(combination: StringBuilder, index: Int) {
+        fun backtrack(index: Int,combination: String = "") {
             if (index == digits.length) {
                 result.add(combination.toString())
                 return
@@ -17,13 +17,11 @@ class Solution {
             
             val letters = map[digits[index]] ?: return
             for (letter in letters) {
-                combination.append(letter)
-                backtrack(combination, index + 1)
-                combination.deleteCharAt(combination.length - 1)
+                backtrack(index + 1,combination + letter, )
             }
         }
         
-        backtrack(StringBuilder(), 0)
+        backtrack(0)
         return result
     }
 }
