@@ -21,7 +21,7 @@ class Solution {
         )
 
 
-        while(queue.isNotEmpty() && fresh > 0){
+        while(queue.isNotEmpty()){
             for(i in 0 until queue.size){
                 val cur = queue.removeLast()
                 for(d in direction){ 
@@ -38,11 +38,12 @@ class Solution {
                 }
             }
             time++
+            if(fresh == 0) return time
         }
 
-        if(fresh > 0) return -1
 
-        return time
+
+        return -1
 
 
     }
