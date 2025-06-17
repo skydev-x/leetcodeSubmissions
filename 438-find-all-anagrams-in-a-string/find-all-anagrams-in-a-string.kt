@@ -1,36 +1,25 @@
 class Solution {
     fun findAnagrams(s: String, p: String): List<Int> {
-        if (p.length > s.length) return listOf<Int>()
-        
-        val result = mutableListOf<Int>()
-        val freq = mutableMapOf<Char, Int>()
-        val window = mutableMapOf<Char, Int>()
-
-        for (c in p) {
-            freq[c] = freq.getOrPut(c) { 0 } + 1
+        if(p.length > s.length) return listOf()
+        val fm = mutableMapOf<Char,Int>()
+        val pm = mutableMapOf<Char,Int>()
+        val res = mutableListOf<Int>()
+        for(i in 0 until p.length){
+            fm[s[i]] = fm.getOrPut(s[i]){0} + 1
+            pm[p[i]] = pm.getOrPut(p[i]){0} + 1
         }
-
-        for (i in 0 until p.length) {
-            window[s[i]] = window.getOrPut(s[i]) { 0 } + 1
-        }
-
-        for (end in p.length..s.length) {
-            if (window == freq) {
-                result.add(end - p.length)
+        var l = 0
+        var r = p.length - 1
+        while(r <= s.length -1){
+            if(pm.keys.all {it in fm.keys && pm[it] == fm[it] }) {
+                res.add(l)
             }
-
-            if (end < s.length) {
-                val startChar = s[end - p.length]
-                window[startChar] = window[startChar]!! - 1
-                if (window[startChar] == 0) {
-                    window.remove(startChar)
-                }
-
-                val endChar = s[end]
-                window[endChar] = window.getOrPut(endChar) { 0 } + 1
-            }
+            l++
+            r++
+            if(r > s.length -1) break
+            fm[s[r]] = fm.getOrPut(s[r]){0} + 1
+            fm[s[l-1]] = fm.getOrPut(s[l-1]){0} - 1
         }
-
-        return result
+        return res
     }
 }
