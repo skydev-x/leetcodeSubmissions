@@ -17,7 +17,6 @@ class Solution {
             if(r > s2.length) break
             windMap[s2[l-1]] = windMap.getOrPut(s2[l-1]){0} - 1
             windMap[s2[r]] = windMap.getOrPut(s2[r]){0} + 1
-            println("$pattern and $windMap")
             if(pattern.keys.all { it in windMap.keys && pattern[it] == windMap[it] }) return true
 
         }
