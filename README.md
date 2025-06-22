@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0525-contiguous-array](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
@@ -44,4 +45,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
