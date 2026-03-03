@@ -7,68 +7,73 @@ Collection of LeetCode questions to ace the coding interview!
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0560-subarray-sum-equals-k) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0303-range-sum-query-immutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0341-flatten-nested-list-iterator) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0525-contiguous-array](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0042-trapping-rain-water) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0042-trapping-rain-water) |
 | [0341-flatten-nested-list-iterator](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0341-flatten-nested-list-iterator) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0042-trapping-rain-water) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0341-flatten-nested-list-iterator) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0341-flatten-nested-list-iterator) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0341-flatten-nested-list-iterator) |
 ## Iterator
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0341-flatten-nested-list-iterator) |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
