@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
+| [0206-reverse-linked-list](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,4 +93,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
