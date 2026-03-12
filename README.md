@@ -62,10 +62,12 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
+| [0112-path-sum](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
 | [0341-flatten-nested-list-iterator](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0341-flatten-nested-list-iterator) |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0112-path-sum](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
 | [0341-flatten-nested-list-iterator](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0341-flatten-nested-list-iterator) |
 ## Queue
 | Problem Name | Difficulty |
@@ -117,8 +119,10 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
+| [0112-path-sum](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
+| [0112-path-sum](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
 <!---LeetCode Topics End-->
