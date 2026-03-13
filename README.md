@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
 | [0303-range-sum-query-immutable](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0303-range-sum-query-immutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0341-flatten-nested-list-iterator) |
 ## Prefix Sum
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0042-trapping-rain-water) |
+| [0295-find-median-from-data-stream](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0268-missing-number](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
+| [0295-find-median-from-data-stream](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,4 +129,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
 <!---LeetCode Topics End-->
