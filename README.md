@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0268-missing-number](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0303-range-sum-query-immutable) |
+| [0427-construct-quad-tree](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Medium/0427-construct-quad-tree/) | Medium |
 | [0525-contiguous-array](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0560-subarray-sum-equals-k) |
 ## Design
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0102-binary-tree-level-order-traversal](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
 | [0341-flatten-nested-list-iterator](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0341-flatten-nested-list-iterator) |
+| [0427-construct-quad-tree](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Medium/0427-construct-quad-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
+| [0427-construct-quad-tree](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Medium/0427-construct-quad-tree/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,4 +136,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0427-construct-quad-tree](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Medium/0427-construct-quad-tree/) | Medium |
 <!---LeetCode Topics End-->
