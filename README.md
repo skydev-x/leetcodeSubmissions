@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0427-construct-quad-tree](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Medium/0427-construct-quad-tree/) | Medium |
 | [0525-contiguous-array](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0560-subarray-sum-equals-k) |
+| [2603-collect-coins-in-a-tree](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Hard/2603-collect-coins-in-a-tree/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
 | [0341-flatten-nested-list-iterator](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0341-flatten-nested-list-iterator) |
 | [0427-construct-quad-tree](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Medium/0427-construct-quad-tree/) | Medium |
+| [2603-collect-coins-in-a-tree](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Hard/2603-collect-coins-in-a-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,4 +142,12 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0427-construct-quad-tree](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Medium/0427-construct-quad-tree/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2603-collect-coins-in-a-tree](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Hard/2603-collect-coins-in-a-tree/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2603-collect-coins-in-a-tree](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Hard/2603-collect-coins-in-a-tree/) | Hard |
 <!---LeetCode Topics End-->
