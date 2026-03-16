@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0427-construct-quad-tree](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Medium/0427-construct-quad-tree/) | Medium |
 | [0525-contiguous-array](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0560-subarray-sum-equals-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [2603-collect-coins-in-a-tree](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Hard/2603-collect-coins-in-a-tree/) | Hard |
 ## Design
 | Problem Name | Difficulty |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0042-trapping-rain-water) |
 | [0295-find-median-from-data-stream](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
+| [0977-squares-of-a-sorted-array](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0268-missing-number](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
+| [0977-squares-of-a-sorted-array](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
