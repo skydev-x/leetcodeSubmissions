@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0525-contiguous-array](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0560-subarray-sum-equals-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Medium/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [2603-collect-coins-in-a-tree](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Hard/2603-collect-coins-in-a-tree/) | Hard |
 ## Design
 | Problem Name | Difficulty |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Medium/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0341-flatten-nested-list-iterator) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Medium/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0295-find-median-from-data-stream](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Medium/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,4 +157,12 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2603-collect-coins-in-a-tree](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Hard/2603-collect-coins-in-a-tree/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Medium/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Medium/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 <!---LeetCode Topics End-->
