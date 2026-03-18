@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0042-trapping-rain-water) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Hard/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0112-path-sum](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
 | [0341-flatten-nested-list-iterator](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0341-flatten-nested-list-iterator) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Hard/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Hard/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2603-collect-coins-in-a-tree](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Hard/2603-collect-coins-in-a-tree/) | Hard |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Hard/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
