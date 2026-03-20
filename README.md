@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
+| [0136-single-number](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0303-range-sum-query-immutable) |
 | [0427-construct-quad-tree](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Medium/0427-construct-quad-tree/) | Medium |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
