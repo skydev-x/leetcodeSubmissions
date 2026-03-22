@@ -121,10 +121,12 @@ Collection of LeetCode questions to ace the coding interview!
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0268-missing-number](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
