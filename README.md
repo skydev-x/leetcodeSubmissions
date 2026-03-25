@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0427-construct-quad-tree](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Medium/0427-construct-quad-tree/) | Medium |
 | [0525-contiguous-array](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0560-subarray-sum-equals-k) |
+| [0729-my-calendar-i](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Medium/0729-my-calendar-i/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Medium/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [2603-collect-coins-in-a-tree](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Hard/2603-collect-coins-in-a-tree/) | Hard |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0295-find-median-from-data-stream](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
 | [0303-range-sum-query-immutable](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0303-range-sum-query-immutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/skydev-x/leetcodeSubmissions/tree/master/0341-flatten-nested-list-iterator) |
+| [0729-my-calendar-i](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Medium/0729-my-calendar-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
+| [0729-my-calendar-i](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Medium/0729-my-calendar-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,9 +171,14 @@ Collection of LeetCode questions to ace the coding interview!
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0729-my-calendar-i](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Medium/0729-my-calendar-i/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Medium/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Medium/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0729-my-calendar-i](https://github.com/skydev-x/leetcodeSubmissions/tree/main/LeetCode/Medium/0729-my-calendar-i/) | Medium |
 <!---LeetCode Topics End-->
